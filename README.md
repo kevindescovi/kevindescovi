@@ -1,6 +1,6 @@
-olá! me chamo kevin descovi
-##
-- 👀 atualmente trabalho em front-end
+<h1> me chamo kevin descovi</h1>
+👨‍💻criando e resolvendo uns bugs <br>
+🖥dev front-end
 
 ![kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindescovi&show_icons=true&theme=radical)
 
